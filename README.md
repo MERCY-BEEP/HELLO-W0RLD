@@ -1,2 +1,5 @@
 # HELLO-W0RLD
-Just another repository
+
+Hi Rakshmi!
+
+Mercy here .I like node.js and coffeescript[thats what i'm made of]
